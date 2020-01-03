@@ -3,7 +3,7 @@ def function1(x):
 
 
 def function2(x):
-    return x+2
+    return x+2.2
 
 
 def function3(x):
