@@ -1,5 +1,5 @@
 def function1(x):
-    return x+0.5
+    return x+1
 
 
 def function2(x):
