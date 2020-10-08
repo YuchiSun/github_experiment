@@ -13,9 +13,6 @@ def function3(x):
 def function4(x):
     return x+4
 
-def function5(x):
-    return x+5
-
 
 if __name__ == '__main__':
     print('function1 output', function1(0))
